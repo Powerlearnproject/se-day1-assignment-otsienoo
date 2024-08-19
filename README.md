@@ -107,6 +107,4 @@ Example: A prompt like "Provide information on historical events, but avoid any 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt: "Tell me about climate change."
-
-Improved Prompt:
 Improved Prompt: "Explain the main causes of climate change and how they impact global temperatures."
